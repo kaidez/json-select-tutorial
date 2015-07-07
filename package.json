@@ -10,7 +10,7 @@
     "JSONSelect",
     "json"
   ],
-  "author": "Kai \\\"kaidez\\\" Gittens",
+  "author": "Kai \"kaidez\" Gittens",
   "license": "MIT",
   "dependencies": {
     "JSONSelect": "^0.4.0"
