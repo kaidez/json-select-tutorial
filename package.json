@@ -1,0 +1,15 @@
+{
+  "name": "json-select-tutorial",
+  "version": "1.0.0",
+  "description": "Source code for JSONSelect tutorial by Kai \\\"kaidez\\\" Gittens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JSONSelect",
+    "json"
+  ],
+  "author": "Kai \\\"kaidez\\\" Gittens",
+  "license": "MIT"
+}
