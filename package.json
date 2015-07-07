@@ -2,10 +2,7 @@
   "name": "json-select-tutorial",
   "version": "1.0.0",
   "description": "Source code for JSONSelect tutorial by Kai \"kaidez\" Gittens",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "n/a",
   "keywords": [
     "JSONSelect",
     "json"
