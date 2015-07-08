@@ -26,6 +26,8 @@ var teams = {
     }
   }
 };
+
+// .compile() example
 // var selector01 = ".acmilan";
 // var selector02 = ".chelsea";
 
